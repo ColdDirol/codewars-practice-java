@@ -1,3 +1,5 @@
+Menu lol:
+
 * [4kyu - Strip Comments](https://github.com/ColdDirol/codewars-practice-java/blob/master/src/StripComments.java)
 * [5kyu - PaginationHelper](https://github.com/ColdDirol/codewars-practice-java/blob/master/src/PaginationHelper.java)
 * [4kyu - Sum Strings as Numbers](https://github.com/ColdDirol/codewars-practice-java/blob/master/src/SumStringsAsNumbers.java)
