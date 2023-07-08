@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fa60a20-aa63-4175-98d1-d885fad35240" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/DescendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HighestAndLowest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortTheOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BreakCamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PickPeaks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductOfConsecutiveFibNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scramblies.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,37 +52,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SortTheOdd">
-    <configuration name="DescendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DescendingOrder" />
+  <component name="RunManager" selected="Application.NumberOfTrailingZerosOfN">
+    <configuration name="DuplicateEncoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicateEncoder" />
       <module name="codewars-practice-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetectPangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DetectPangram" />
+    <configuration name="NumberOfTrailingZerosOfN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfTrailingZerosOfN" />
       <module name="codewars-practice-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighestAndLowest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HighestAndLowest" />
+    <configuration name="PickPeaks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PickPeaks" />
       <module name="codewars-practice-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortTheOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortTheOdd" />
+    <configuration name="ProductOfConsecutiveFibNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProductOfConsecutiveFibNumbers" />
       <module name="codewars-practice-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StripComments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StripComments" />
+    <configuration name="Scramblies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scramblies" />
       <module name="codewars-practice-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortTheOdd" />
-        <item itemvalue="Application.HighestAndLowest" />
-        <item itemvalue="Application.DescendingOrder" />
-        <item itemvalue="Application.DetectPangram" />
-        <item itemvalue="Application.StripComments" />
+        <item itemvalue="Application.NumberOfTrailingZerosOfN" />
+        <item itemvalue="Application.PickPeaks" />
+        <item itemvalue="Application.Scramblies" />
+        <item itemvalue="Application.ProductOfConsecutiveFibNumbers" />
+        <item itemvalue="Application.DuplicateEncoder" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +109,7 @@
       <workItem from="1688830452292" duration="1219000" />
       <workItem from="1688838288044" duration="5189000" />
       <workItem from="1688845456177" duration="135000" />
-      <workItem from="1688845607072" duration="1483000" />
+      <workItem from="1688845607072" duration="2776000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1688830678570</created>
@@ -151,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688846408608</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1688847319688</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688847319688</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1688847334764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688847334764</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
