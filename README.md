@@ -14,3 +14,5 @@
 * [7kyu - Descending Order](https://github.com/ColdDirol/codewars-practice-java/blob/master/src/DescendingOrder.java)
 * [6kyu - Detect Pangram](https://github.com/ColdDirol/codewars-practice-java/blob/master/src/DetectPangram.java)
 * [6kyu - Who likes it?](https://github.com/ColdDirol/codewars-practice-java/blob/master/src/WhoLikesIt.java)
+
+![samurai.jpg](https://github.com/ColdDirol/codewars-practice-java/blob/master/samurai.jpg)
