@@ -1,12 +1,8 @@
 public class HumanReadableTime {
     public static String makeReadable(int seconds) {
-        int hh = 0;
-        int mm = 0;
-        int ss = 0;
-
-        ss = seconds % 60;
-        mm = (seconds / 60) % 60;
-        hh = seconds / 3600;
+        int hh = seconds % 60;
+        int mm = (seconds / 60) % 60;
+        int ss = seconds / 3600;
 
         String answer = "";
 
